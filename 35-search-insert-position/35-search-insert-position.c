@@ -6,12 +6,13 @@ int searchInsert(int* nums, int numsSize, int target){
     // numsSize is length
     // target is wanted
     
+    int i;
 
-    for (int i = 0; i < numsSize ; i++){
+    for (i = 0; i < numsSize ; i++){
         
-        if(nums[i] >=target){   
+        if(nums[i] >= target){   
             return i;
         }
     }
-    return numsSize;
+    return i;
 }
