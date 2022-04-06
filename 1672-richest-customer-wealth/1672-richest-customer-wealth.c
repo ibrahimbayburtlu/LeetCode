@@ -10,7 +10,9 @@ int maximumWealth(int** accounts, int accountsSize, int* accountsColSize){
             for(int j = 0;j<*accountsColSize;j++){
                 temp+=accounts[i][j];
             }
-            if(temp > res) res = temp;
+            if(temp > res){
+                res = temp;
+            }
         }
         return res;
 }
