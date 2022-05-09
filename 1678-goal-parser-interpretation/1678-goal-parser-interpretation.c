@@ -16,7 +16,7 @@ while(command[i]){
     else {
        result[index++]='a';
        result[index++]='l';
-       i=i+4;
+       i+=4;
    }
 }
 result[index]='\0';
