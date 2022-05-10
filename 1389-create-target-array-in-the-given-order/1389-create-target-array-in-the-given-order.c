@@ -4,18 +4,18 @@
  * Note: The returned array must be malloced, assume caller calls free().
  */
 int* createTargetArray(int* nums, int numsSize, int* index, int indexSize, int* returnSize){
-
-    *returnSize = numsSize;
     
-    int *arr = (int*)malloc(sizeof(int)*numsSize);
-    
-    for (int i = 0; i < indexSize; i++){
-         if(index[i] < indexSize - 1){
-             for ( int  j = indexSize -1 ; j > index[i] ; j--){
-                 arr[j] = arr[j-1];
-             }
-         }
-        arr[index[i]] = nums[i];
+    int* target = calloc(1,sizeof(int)*numsSize);
+    int  i,j = 0;
+    for(i=0;i<numsSize;i++)
+    {
+        
+        for(j=numsSize-1;j>index[i];j--)
+        {
+            target[j] = target[j-1];
+        }
+        target[index[i]] = nums[i]; 
     }
-    return arr;
+    *returnSize = numsSize;
+    return target;
 }
