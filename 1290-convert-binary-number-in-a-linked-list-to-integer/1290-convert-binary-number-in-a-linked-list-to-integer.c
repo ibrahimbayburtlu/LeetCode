@@ -9,20 +9,20 @@
 
 int getDecimalValue(struct ListNode* head){
     struct ListNode* temp=head;
-    int count=0; // For counting no. of nodes so to calculate 2's power.
+    int count = 0;
+    int total =0;
     while(temp!=NULL){
         count++;
-        temp=temp->next;
+        temp = temp->next;
     }
-    
-    int i= count-1;// For 2's power
-    int result=0;
-    temp=head;
+    temp = head;
+    int i = count -1;
     while(temp!=NULL){
-        result=result+(pow(2,i)*(temp->val)); // Main Logic
+        total +=(pow(2,i)*(temp->val));
         i--;
-        temp=temp->next;
+        temp = temp->next;
     }
-    
-    return result;
+    return total;
 }
+    
+    
