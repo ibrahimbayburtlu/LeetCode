@@ -1,16 +1,19 @@
 class Solution {
     public int sumOfUnique(int[] nums) {
         int sum = 0;
-        Map<Integer,Integer> map = new HashMap<>();
-        for (int num : nums) {
-            map.put(num, map.getOrDefault(num, 0) + 1);
-            if (map.get(num) == 1) {
-                sum += num;
-            } else if (map.get(num) == 2) {
-                sum -= num;
+        int[] record = new int[101];
+        for (int i = 0; i < nums.length;i++){
+            if (record[nums[i]] != 0){
+                if (record[nums[i]] == 1){
+                    sum -= nums[i];
+                    record[nums[i]] = 2;
+                }
+            }
+            else{
+                sum += nums[i];
+                record[nums[i]] = 1;
             }
         }
-        System.out.print(map);
-        return sum;   
+        return sum;  
     }
 }
