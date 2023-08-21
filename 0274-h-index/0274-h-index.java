@@ -6,9 +6,8 @@ class Solution {
             citations[i] = citations[citations.length - 1 - i];
             citations[citations.length - 1 - i] = temp;
         }
-        int n = citations.length;
-        int hIndex = citations[0];
-        for (int i = 0; i < n; i++) {
+        int hIndex = 0;
+        for (int i = 0; i < citations.length; i++) {
             if (citations[i] >= i + 1) {
                 hIndex = i + 1;
             }
