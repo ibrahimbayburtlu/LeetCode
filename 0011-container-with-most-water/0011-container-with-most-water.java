@@ -4,7 +4,7 @@ class Solution {
         // vertical
         // horizontal
         
-        // Time : O(n ^ 2)
+        // Time : O(logN)
         // Complexity : O(1)
         
         int left = 0;
