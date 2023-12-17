@@ -1,23 +1,24 @@
-import java.util.Hashtable;
+import java.util.HashMap;
+import java.util.Map;
+
 class Solution {
     public int lengthOfLongestSubstring(String s) {
-        Hashtable<Character, Integer> table = new Hashtable<>();
+        Map<Character, Integer> charIndexMap = new HashMap<>();
 
         int maxLength = 0;
-        String resultString = "";
+        int start = 0;
 
-        for(int i = 0; i < s.length();i++){
+        for (int i = 0; i < s.length(); i++) {
+            char currentChar = s.charAt(i);
 
-            if(!table.containsKey(s.charAt(i))){
-                resultString += s.charAt(i);
-            }else{
-                maxLength = Math.max(maxLength,resultString.length());
-                int n = resultString.indexOf(s.charAt(i));
-                resultString = resultString.substring(n+1);
-                resultString += s.charAt(i);
+            if (charIndexMap.containsKey(currentChar)) {
+                start = Math.max(start, charIndexMap.get(currentChar) + 1);
             }
-            table.put(s.charAt(i),1);
+
+            maxLength = Math.max(maxLength, i - start + 1);
+            charIndexMap.put(currentChar, i);
         }
-        return Math.max(resultString.length(),maxLength);
+
+        return maxLength;
     }
 }
