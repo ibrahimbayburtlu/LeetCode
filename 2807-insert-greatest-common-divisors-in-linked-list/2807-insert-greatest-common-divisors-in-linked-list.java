@@ -24,11 +24,14 @@ class Solution {
     }
     
     private int calculateGreatestCommonDivisor(int a, int b){
-            while (b != 0) {
-            int temp = b;
-            b = a % b;
-            a = temp;
+        int num = Math.min(a,b);
+        
+        int maxNumber = 1;
+        for (int i = 2; i <= num; i++) {
+            if (a % i == 0 && b % i == 0) {
+                maxNumber = i;
+            }
         }
-        return a;
+        return maxNumber;
     }
 }
