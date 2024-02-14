@@ -1,7 +1,7 @@
 class Solution {
     public List<Integer> findWordsContaining(String[] words, char x) {
         // Time - Complexity : O(n^2)
-        // Space - Complexity : O(1)
+        // Space - Complexity : O(n)
         
         List<Integer> list = new ArrayList();
         
