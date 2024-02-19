@@ -11,7 +11,6 @@ class Solution {
                 } else {
                     duplicateNumber = ints[j];
                 }
-                System.out.println(ints[j]);
             }
         }
         
