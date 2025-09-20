@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ibrahimbayburtlu/LeetCode/tree/master/0217-contains-duplicate) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/ibrahimbayburtlu/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
