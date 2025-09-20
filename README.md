@@ -15,4 +15,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ibrahimbayburtlu/LeetCode/tree/master/0217-contains-duplicate) |
+## Math
+|  |
+| ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/ibrahimbayburtlu/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+## String
+|  |
+| ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/ibrahimbayburtlu/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
