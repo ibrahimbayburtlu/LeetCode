@@ -24,9 +24,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/ibrahimbayburtlu/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ibrahimbayburtlu/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Greedy
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/ibrahimbayburtlu/LeetCode/tree/master/0605-can-place-flowers) |
+## Two Pointers
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/ibrahimbayburtlu/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
