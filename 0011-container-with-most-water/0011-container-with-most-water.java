@@ -21,3 +21,16 @@ class Solution {
         return maxAreaResult;
     }
 }
+
+/*
+
+1 8 6 2 5 4 8 3 7
+
+y -> 8 ve 7 : Math.min(8,7) = 7
+x -> 1 index ile 8.index = 
+
+
+
+
+*/
+
