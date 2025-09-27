@@ -111,4 +111,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/ibrahimbayburtlu/LeetCode/tree/master/0394-decode-string) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/ibrahimbayburtlu/LeetCode/tree/master/0969-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/ibrahimbayburtlu/LeetCode/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/ibrahimbayburtlu/LeetCode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
