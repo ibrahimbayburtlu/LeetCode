@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/ibrahimbayburtlu/LeetCode/tree/master/0443-string-compression) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ibrahimbayburtlu/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ibrahimbayburtlu/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ibrahimbayburtlu/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/ibrahimbayburtlu/LeetCode/tree/master/0394-decode-string) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ibrahimbayburtlu/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -129,4 +131,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/ibrahimbayburtlu/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ibrahimbayburtlu/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ibrahimbayburtlu/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
