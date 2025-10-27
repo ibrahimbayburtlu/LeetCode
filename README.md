@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ibrahimbayburtlu/LeetCode/tree/master/0217-contains-duplicate) |
+| [0264-ugly-number-ii](https://github.com/ibrahimbayburtlu/LeetCode/tree/master/0264-ugly-number-ii) |
 | [1319-unique-number-of-occurrences](https://github.com/ibrahimbayburtlu/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ibrahimbayburtlu/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ibrahimbayburtlu/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/ibrahimbayburtlu/LeetCode/tree/master/0264-ugly-number-ii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ibrahimbayburtlu/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## String
 |  |
@@ -87,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/ibrahimbayburtlu/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/ibrahimbayburtlu/LeetCode/tree/master/0392-is-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ibrahimbayburtlu/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
@@ -149,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ibrahimbayburtlu/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/ibrahimbayburtlu/LeetCode/tree/master/0264-ugly-number-ii) |
 | [2413-smallest-number-in-infinite-set](https://github.com/ibrahimbayburtlu/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Quickselect
 |  |
