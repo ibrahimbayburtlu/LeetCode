@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/ibrahimbayburtlu/LeetCode/tree/master/0264-ugly-number-ii) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/ibrahimbayburtlu/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ibrahimbayburtlu/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## String
 |  |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/ibrahimbayburtlu/LeetCode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/ibrahimbayburtlu/LeetCode/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/ibrahimbayburtlu/LeetCode/tree/master/0649-dota2-senate) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/ibrahimbayburtlu/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ibrahimbayburtlu/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ibrahimbayburtlu/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/ibrahimbayburtlu/LeetCode/tree/master/1768-merge-strings-alternately) |
